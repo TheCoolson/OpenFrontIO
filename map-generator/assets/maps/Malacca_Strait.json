@@ -1,0 +1,298 @@
+{
+  "name": "Malacca_Strait",
+  "mapInfoState": {
+    "width": 1007,
+    "height": 715,
+    "originalWidth": 1007,
+    "originalHeight": 715,
+    "cropData": {
+      "isCropped": false,
+      "cropX": 0,
+      "cropY": 0,
+      "cropWidth": 0,
+      "cropHeight": 0,
+      "originalWidth": 0,
+      "originalHeight": 0
+    },
+    "colorMappings": [
+      {
+        "sourceColor": {
+          "r": 210,
+          "g": 200,
+          "b": 160
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 78,
+          "g": 103,
+          "b": 160
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 29,
+          "g": 51,
+          "b": 104
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 69,
+          "g": 94,
+          "b": 150
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 64,
+          "g": 88,
+          "b": 144
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 32,
+          "g": 54,
+          "b": 108
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 51,
+          "g": 74,
+          "b": 129
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 47,
+          "g": 71,
+          "b": 125
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 74,
+          "g": 99,
+          "b": 156
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 38,
+          "g": 60,
+          "b": 114
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 44,
+          "g": 67,
+          "b": 122
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 72,
+          "g": 96,
+          "b": 153
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 57,
+          "g": 81,
+          "b": 136
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 53,
+          "g": 77,
+          "b": 132
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 61,
+          "g": 86,
+          "b": 141
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 35,
+          "g": 57,
+          "b": 111
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 67,
+          "g": 91,
+          "b": 147
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 40,
+          "g": 63,
+          "b": 117
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 49,
+          "g": 77,
+          "b": 52
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 80,
+          "g": 104,
+          "b": 79
+        },
+        "targetTerrainName": "Beach",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 75,
+          "g": 99,
+          "b": 75
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 68,
+          "g": 93,
+          "b": 68
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 64,
+          "g": 89,
+          "b": 65
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 60,
+          "g": 87,
+          "b": 62
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 71,
+          "g": 95,
+          "b": 71
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 52,
+          "g": 80,
+          "b": 55
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 56,
+          "g": 83,
+          "b": 58
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 84,
+          "g": 106,
+          "b": 82
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      }
+    ]
+  },
+  "nations": [
+    {
+      "coordinates": [764, 288],
+      "name": "Malaysia",
+      "strength": 2,
+      "flag": "my"
+    },
+    {
+      "coordinates": [882, 521],
+      "name": "Singapore",
+      "strength": 1,
+      "flag": "sg"
+    },
+    {
+      "coordinates": [728, 706],
+      "name": "Indonesia",
+      "strength": 3,
+      "flag": "id"
+    },
+    {
+      "coordinates": [619, 11],
+      "name": "Thailand",
+      "strength": 2,
+      "flag": "th"
+    }
+  ]
+}
